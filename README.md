@@ -1,3 +1,3 @@
 # CalculatorJs
  Simple calculator developed in JavaScript.
-![ScreenShot](Calculator JS/img/bg-calc.jpg)
+![ScreenShot](img/bg-calc.jpg)
